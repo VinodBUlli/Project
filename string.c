@@ -7,3 +7,5 @@ jerry commit new changes=======
 testing amend operation
 =======
 >>>>>>> 6a7f6e56843b54207c9d41d151c0df1f481aeee3
+this is toms line
+
