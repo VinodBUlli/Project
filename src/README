@@ -1,5 +1,12 @@
 TODO:Add Containts for README
 Added this line to check whether user name is changed or not
+<<<<<<< HEAD
+conflit tom
+=======
 Conflit
 
+<<<<<<< HEAD
 adding one more line
+=======
+>>>>>>> 9a915a032b352745be96fecbf280e9496beb8576
+>>>>>>> c4452727d152bdb33cf8186989861ba9b38c3db8
